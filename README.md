@@ -1,2 +1,2 @@
 # CV
-I create a website using HTML that outut shows like a CV
+I create a website using HTML that output shows like a CV
